@@ -6,7 +6,7 @@ gmsh.initialize()
 gmsh.model.add("task_0_circle")
 mesh_param = 0.01
 coordinates_center = [0,0,0]
-radius = 0.1
+radius = 1
 point = []
 curves = []
 array_curves=[]
